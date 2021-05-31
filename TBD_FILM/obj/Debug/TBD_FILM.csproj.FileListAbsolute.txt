@@ -1,0 +1,12 @@
+D:\Microsoft VS Projects\TBD_FILM\bin\Debug\Database_FILM.mdf
+D:\Microsoft VS Projects\TBD_FILM\bin\Debug\Database_FILM_log.ldf
+D:\Microsoft VS Projects\TBD_FILM\bin\Debug\TBD_FILM.exe.config
+D:\Microsoft VS Projects\TBD_FILM\bin\Debug\TBD_FILM.exe
+D:\Microsoft VS Projects\TBD_FILM\bin\Debug\TBD_FILM.pdb
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.Form1.resources
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.exe
+D:\Microsoft VS Projects\TBD_FILM\obj\Debug\TBD_FILM.pdb
